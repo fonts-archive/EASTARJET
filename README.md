@@ -38,8 +38,7 @@ font-family: 'EASTARJET';
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/EASTARJET/EASTARJET-DemiLight.woff2') format('woff2'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/EASTARJET/EASTARJET-DemiLight.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/EASTARJET/EASTARJET-DemiLight.otf') format('opentype'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/EASTARJET/EASTARJET-DemiLight.ttf') format('truetype');
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/EASTARJET/EASTARJET-DemiLight.otf') format('opentype');
 }
 @font-face {
     font-family: 'EASTARJET';
@@ -48,8 +47,7 @@ font-family: 'EASTARJET';
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/EASTARJET/EASTARJET-Medium.woff2') format('woff2'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/EASTARJET/EASTARJET-Medium.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/EASTARJET/EASTARJET-Medium.otf') format('opentype'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/EASTARJET/EASTARJET-Medium.ttf') format('truetype');
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/EASTARJET/EASTARJET-Medium.otf') format('opentype');
 }
 @font-face {
     font-family: 'EASTARJET';
@@ -58,8 +56,7 @@ font-family: 'EASTARJET';
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/EASTARJET/EASTARJET-Heavy.woff2') format('woff2'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/EASTARJET/EASTARJET-Heavy.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/EASTARJET/EASTARJET-Heavy.otf') format('opentype'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/EASTARJET/EASTARJET-Heavy.ttf') format('truetype');
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/EASTARJET/EASTARJET-Heavy.otf') format('opentype');
 }
 ```
 
