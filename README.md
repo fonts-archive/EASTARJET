@@ -1,4 +1,4 @@
-# 감탄로드 바탕체
+# 이스타체
 
 [원 배포처 링크](https://www.eastarjet.com/newstar/PGWTA00002?eventNo=1840&gubun=I)
 
